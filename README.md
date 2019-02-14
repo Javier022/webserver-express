@@ -1,4 +1,4 @@
-## Código fuete del proyectoo
+## Código fuete del proyecto
 
 Instalar las Dependencias.
 
